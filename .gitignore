@@ -1,0 +1,88 @@
+# ==========================================
+# CyberSentinel X - Git Ignore
+# ==========================================
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build output
+dist/
+build/
+coverage/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+.DS_Store?
+Thumbs.db
+Desktop.ini
+
+# IDE and editor settings
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Testing and coverage
+.nyc_output/
+playwright-report/
+test-results/
+
+# Cache
+.cache/
+.vite/
+.eslintcache
+.turbo/
+
+# Python cache (if used by backend or tools)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local uploads and generated reports
+uploads/
+*.csv
+*.xlsx
+*.zip
+
+# Local database backups
+*.db-journal
+*.sqlite-journal
+
+# Deployment output
+.vercel/
+.netlify/
+
+# Keep environment example files
+!.env.example

@@ -1,0 +1,6 @@
+{
+  "name": "CyberSentinel X",
+  "description": "AI-Powered Autonomous Cyber Defense, Threat Intelligence & SOC Intelligence Platform. Enterprise-grade defensive SOC platform with synthetic security telemetry, explainable risk scoring, MITRE ATT&CK mapping, and human-in-the-loop response workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
