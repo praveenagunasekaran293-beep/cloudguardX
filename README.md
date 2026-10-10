@@ -1,6 +1,6 @@
 # 🛡️ CyberSentinel X
 
-### AI-Powered Autonomous Cyber Defense, Threat Intelligence & SOC Intelligence Platform
+### CyberSentinel X | Cloud-Based Cybersecurity Monitoring, Threat Intelligence & SOC Intelligence Platform
 
 CyberSentinel X is a cybersecurity intelligence and monitoring platform designed to help users explore vulnerabilities, monitor security-related activities, and understand potential risks through a centralized dashboard.
 
